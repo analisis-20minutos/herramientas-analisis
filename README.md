@@ -1,6 +1,6 @@
 # Herramientas de scrapeado y análisis para __20minutos__
 
-Este repositorio contiene todos los proyectos y scripts desarrollados durante el trabajo de investigación descrito en el artículo __"Creación de un corpus de noticias de gran tamaño en español para el análisis geográfico y temporal del uso del lenguaje"__. Con estos, se puede replicar localmente el corpus descrito en este trabajo para su posterior análisis.
+Este repositorio contiene todos los proyectos y scripts desarrollados durante el trabajo de investigación descrito en el artículo __"Creación de un corpus de noticias de gran tamano en espanol para el análisis diacrónico y diatópico del uso del lenguaje"__. Con estos, se puede replicar localmente el corpus descrito en este trabajo para su posterior análisis.
 
 ## Requisitos/Sistemas Utilizados
 * [Ubuntu 18.04](http://releases.ubuntu.com/18.04/) (también [Linux Mint 18.3](https://linuxmint.com/edition.php?id=246))
