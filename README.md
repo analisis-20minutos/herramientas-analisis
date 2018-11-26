@@ -70,4 +70,4 @@ También se incluye otra serie de archivos extra:
 * Un excel con los datos extraídos para los experimentos realizados posteriormente.
 * Las propias infografías como resultado de estas.
 * Una lista de anglicismos en `anglicisms.txt`
-
+* El borrador del artículo en PDF.
